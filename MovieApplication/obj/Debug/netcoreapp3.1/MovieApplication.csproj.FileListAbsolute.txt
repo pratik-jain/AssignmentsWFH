@@ -1,0 +1,3 @@
+C:\Users\Windows10\source\repos\MovieApplication\bin\Debug\netcoreapp3.1\MovieApplication.exe
+C:\Users\Windows10\source\repos\MovieApplication\obj\Debug\netcoreapp3.1\MovieApplication.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\MovieApplication\obj\Debug\netcoreapp3.1\MovieApplication.AssemblyInfo.cs
