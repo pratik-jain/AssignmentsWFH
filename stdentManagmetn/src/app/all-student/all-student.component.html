@@ -1,0 +1,21 @@
+<!--component html goes here -->
+<div align="center" style="padding-top: 100px;">
+
+    <table border="2px solid">
+        <tr>
+            <th>Student Id</th>
+            <th>Student Name</th>
+            <th>Email</th>
+            <th>Mobile</th>            
+        </tr>
+        <tr *ngFor="let i of result">
+            <td>{{i.StudentId}}</td>
+            <td>{{i.StudentName}}</td>
+            <td>{{i.Email}}</td>
+            <td>{{i.Mobile}}</td>
+            <td><button [routerLink]="['/edit',i.StudentId]">Edit</button></td> 
+            <td><a [routerLink]="['/fee',i.StudentId]">PayFee</a></td>
+        </tr>
+    </table>
+
+</div>
