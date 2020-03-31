@@ -1,0 +1,13 @@
+<div align="center" style="padding-top: 100px;">
+    <form [formGroup]="formGroup">
+        <div>
+            <input type="text" placeholder="name" formControlName="name">
+        </div>
+        <div>
+            <input type="text" placeholder="mobile" formControlName="mobile">
+        </div>
+        <div>
+            <button (click)="submit()"> Submit</button>
+        </div>
+    </form>
+</div>
