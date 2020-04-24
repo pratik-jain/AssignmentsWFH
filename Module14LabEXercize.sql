@@ -21,7 +21,7 @@ Create PROC production.GetAvailableModelsAsXML
 alter PROC dbo.UpdateSalesTerritoriesByXML @SalesPersonMods as xml
 AS BEGIN
 	Declare @terrId int 
-	set @terrId = ( SELECT Results.Student.value('StudentId[1]','int') AS StudentId
-		FROM @SalesPersonMods.nodes('Student') Results(Student))
+	set @terrId = ( SELECT Results.SalesPerson.value('SalesTerritoryId[1]','int') AS SalesTerritoryId
+		FROM @SalesPersonMods.nodes('SalesPerson') Results(SalesPerson))
 	update Sales.SalesPerson SET SalesTerritoryId = @terrId
 END
