@@ -1,0 +1,13 @@
+C:\Users\Windows10\source\repos\LINQdemo\bin\Debug\netcoreapp3.1\LINQdemo.exe
+C:\Users\Windows10\source\repos\LINQdemo\bin\Debug\netcoreapp3.1\LINQdemo.deps.json
+C:\Users\Windows10\source\repos\LINQdemo\bin\Debug\netcoreapp3.1\LINQdemo.runtimeconfig.json
+C:\Users\Windows10\source\repos\LINQdemo\bin\Debug\netcoreapp3.1\LINQdemo.runtimeconfig.dev.json
+C:\Users\Windows10\source\repos\LINQdemo\bin\Debug\netcoreapp3.1\LINQdemo.dll
+C:\Users\Windows10\source\repos\LINQdemo\bin\Debug\netcoreapp3.1\LINQdemo.pdb
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.dll
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.pdb
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\LINQdemo\obj\Debug\netcoreapp3.1\LINQdemo.genruntimeconfig.cache
